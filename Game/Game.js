@@ -93,7 +93,7 @@ class Game {
             }
 
         }        
-        camera.zoom = 1/2;       
+        camera.zoom = 1/3;       
 
         gravity(smallAlien.sprite);
         gravity(smallAlien1.sprite);
